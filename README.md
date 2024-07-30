@@ -2,7 +2,5 @@ Este projeto consiste na criação um chatbot que utiliza um modelo de linguagem
 
 ### Link para a aplicação: INSERIR
 
-![pipeline80](https://github.com/user-attachments/assets/665815b7-13b2-4c17-bd72-a963f54e0b9f)
-
-![screenshot](https://github.com/user-attachments/assets/2d8f09e7-d0f1-40ce-88af-5bb28c46dfb3)
+![readme](https://github.com/user-attachments/assets/b7b2a465-c4e1-404b-93d2-e11ab6b215f3)
 
