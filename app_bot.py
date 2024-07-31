@@ -1,10 +1,10 @@
-import os                                               # para uso da chave API
-import streamlit as st                                  # para a aplicação/interface
-from PIL import Image                                   # imagem da aplicação
-from langchain.document_loaders import PyPDFLoader      # para carregar o PDF
-from langchain_huggingface import HuggingFaceEmbeddings # para gerar os embeddings
-from langchain import FAISS                             # para a vector store
-from langchain_groq import ChatGroq                     # para usar o LLM
+import os                                                         # para uso da chave API
+import streamlit as st                                            # para a aplicação/interface
+from PIL import Image                                             # imagem da aplicação
+from langchain_community.document_loaders import PyPDFLoader      # para carregar o PDF
+from langchain_huggingface import HuggingFaceEmbeddings           # para gerar os embeddings
+from langchain import FAISS                                       # para a vector store
+from langchain_groq import ChatGroq                               # para usar o LLM
 
 
 # Configuração da chave da API do Groq
