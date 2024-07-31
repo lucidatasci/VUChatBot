@@ -8,7 +8,7 @@ from langchain_groq import ChatGroq                               # para usar o 
 
 
 # Configuração da chave da API do Groq
-api_key = os.getenv("GROQ_API_KEY")
+api_key = st.secrets["GROQ_API_KEY"]
 if api_key is None:
     raise ValueError("A chave da API não está definida")
 os.environ["GROQ_API_KEY"] = api_key
