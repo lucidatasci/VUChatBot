@@ -3,5 +3,6 @@ Este projeto consiste na criação um chatbot que utiliza um modelo de linguagem
 
 #### Link para a aplicação: [clique aqui](https://vuchatbot-prxzshucsskdfbdpvgmmwf.streamlit.app/)
 ________________________________________
-![readme](https://github.com/user-attachments/assets/b7b2a465-c4e1-404b-93d2-e11ab6b215f3)
 
+
+![pipeline80](https://github.com/user-attachments/assets/5dfb0931-0e83-4c74-99ca-7096d6ab40d5)
