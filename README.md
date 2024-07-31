@@ -1,4 +1,4 @@
-#### Construção de um chatbot baseado em IA para responder dúvidas sobre o vestibular da Unicamp 2025
+### Construção de um chatbot baseado em IA para responder dúvidas sobre o vestibular da Unicamp 2025
 
 Este projeto consiste na criação um chatbot que utiliza um modelo de linguagem de grande escala (LLM) para responder a perguntas sobre o Vestibular da Unicamp, com base na Resolução GR-029/2024. Para isso, foram escolhidas a API do Llama3-70B como LLM, o LangChain como framework para processamento de linguagem natural, o Streamlit para a interface web, e a programação em Python para o desenvolvimento.
 
