@@ -9,10 +9,10 @@ from langchain_groq import ChatGroq                               # para usar o 
 
 # Configuração da chave da API do Groq
 api_key = os.getenv("GROQ_API_KEY")
-#if api_key:
-#    os.environ["GROQ_API_KEY"] = api_key
-#else:
-#    st.error("A chave da API não está definida")
+if api_key:
+    os.environ["GROQ_API_KEY"] = api_key
+else:
+    st.error("A chave da API não está definida")
 
 # Lista com os nomes dos arquivos PDF divididos
 pdf_files = [f"pdfs/resolucao_GR-029-2024-{i}.pdf" for i in range(1, 12)]
